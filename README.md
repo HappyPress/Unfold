@@ -1,4 +1,5 @@
-Unfold
+===
+#Unfold
 ====
 
 A simple minimal WordPress theme built with only what is needed to survive
@@ -15,4 +16,3 @@ Finally, the theme has been localized so if you wish to use the theme in some la
 
 ![Code Screenshot](https://github.com/HappyPress/Unfold/blob/master/dev/unfold-screen-code.png?raw=true)
 =======
-# Unfold
