@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Unfold
 ====
 
@@ -14,3 +15,6 @@ We also used JSLint'ed JavaScript to make sure it's the squeky-cleanest JavaScri
 Finally, the theme has been localized so if you wish to use the theme in some language apart form  English or want to read these posts in another language, you can translate it!
 
 ![Code Screenshot](https://github.com/HappyPress/Unfold/blob/master/dev/unfold-screen-code.png?raw=true)
+=======
+# Unfold
+>>>>>>> 4207a180946b3074ab066fefb266d2ab012ca4a2
