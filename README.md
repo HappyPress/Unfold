@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Unfold
 ====
 
@@ -17,4 +16,3 @@ Finally, the theme has been localized so if you wish to use the theme in some la
 ![Code Screenshot](https://github.com/HappyPress/Unfold/blob/master/dev/unfold-screen-code.png?raw=true)
 =======
 # Unfold
->>>>>>> 4207a180946b3074ab066fefb266d2ab012ca4a2
